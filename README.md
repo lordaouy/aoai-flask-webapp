@@ -5,6 +5,4 @@
 ## Create .venv from requirements.txt
 
 ## Run app 
-''' 
- flask run
-'''
+
