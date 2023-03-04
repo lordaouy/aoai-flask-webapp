@@ -1,10 +1,10 @@
 # aoai-flask-webapp
 
-##Instruction
+## Instruction
 
-##Create .venv from requirements.txt
+## Create .venv from requirements.txt
 
-##Run app 
-'''
-flask run
+## Run app 
+''' 
+ flask run
 '''
